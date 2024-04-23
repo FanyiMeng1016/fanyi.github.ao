@@ -52,7 +52,7 @@
             <h2>Biography</h2>
             <hr>
             <p class="text">
-              I am about to graduate from the UAL Creative Computing Institute, from the MSc Data Science and AI for the Creative Industries. I previously used to work as a graphic designer.
+              I am about to graduate from the UAL Creative Computing Institute, from the MSc Data Science and AI for the Creative Industries. I previously used to work as a marketing analyst.
               <b>I am passionate about data science, NLP, and the possibilities for using them for new creative experiences.</b> In my spare time I enjoy rock climbing and knitting!
             </p>
             <h3>Table of Content</h3>
