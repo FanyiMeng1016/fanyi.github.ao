@@ -53,7 +53,7 @@
             <hr>
             <p class="text">
               I am about to graduate from the UAL Creative Computing Institute, from the MSc Data Science and AI for the Creative Industries. I previously used to work as a marketing analyst.
-              <b>I am passionate about data science, NLP, and the possibilities for using them for new creative experiences.</b> In my spare time I enjoy rock climbing and knitting!
+              <b>I am passionate about data science, NLP, and the possibilities for using them for new creative experiences.</b> 
             </p>
             <h3>Table of Content</h3>
             <ul>
@@ -66,10 +66,10 @@
             <h2 id="project">Education</h2>
             <hr>
             <li><b>MSc Data Science and AI for the Creative Industries</b>, UAL Creative Computing Institute, London, September 2022 - Present.</li>
-            <li><b>BA Statistics</b>, University of Nottingham, , September 2019 - May 2023.</li>
+            <li><b>BA Statistics</b>, University of Nottingham, September 2019 - May 2023.</li>
             <h2 id="project">Employment</h2>
             <hr>
-            <li><b>Graphic Designer</b>, Moonfish, Gateshead, January 2020 - May 2022.</li>
+            <li><b>Intern</b>, Qumin Technology, London, Feburary 2024 - April 2024.</li>
             <li><b>Social media Coordiator</b>, Moosefest, Middlesbrough, June 2019 - December 2019.</li>
             <li><b>Social media Internship</b>, Moosefest, Middlesbrough, May 2018 - August 2018.</li>
             <h2 id="project">Projects</h2>
