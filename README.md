@@ -43,7 +43,7 @@
             <h2>Fanyi Meng</h2>
             <p class="text">
               Looking for work!<br>
-              mengfy9100 (at) gmail.com<br>
+              mengfy9100@gmail.com<br>
            </p>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <h2 id="project">Education</h2>
             <hr>
             <li><b>MSc Data Science and AI for the Creative Industries</b>, UAL Creative Computing Institute, London, September 2022 - Present.</li>
-            <li><b>BA Graphic Design</b>, Teeside University, Middlesbrough, September 2016 - May 2019.</li>
+            <li><b>BA Statistics</b>, University of Nottingham, , September 2019 - May 2023.</li>
             <h2 id="project">Employment</h2>
             <hr>
             <li><b>Graphic Designer</b>, Moonfish, Gateshead, January 2020 - May 2022.</li>
