@@ -70,8 +70,8 @@
             <h2 id="project">Employment</h2>
             <hr>
             <li><b>Intern</b>, Qumin Technology, London, Feburary 2024 - April 2024.</li>
-            <li><b>Social media Coordiator</b>, Moosefest, Middlesbrough, June 2019 - December 2019.</li>
-            <li><b>Social media Internship</b>, Moosefest, Middlesbrough, May 2018 - August 2018.</li>
+            <li><b>Social media Content creator</b>, Tiktok, London, September 2023 - January 2024.</li>
+            <li><b>Project Assistant Internship</b>, Me, Middlesbrough, May 2018 - August 2018.</li>
             <h2 id="project">Projects</h2>
             <hr>
             <li><b>Text classification of poems</b>, 2022, Code: <a href= "https://github.com/cci-student/NLP-project">https://github.com/cci-student/NLP-project</li></a>
