@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 
-</head>
+<head>
   <title>Personal webpage</title>
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/frame.css" media="screen" rel="stylesheet" type="text/css" />
