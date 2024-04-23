@@ -1,4 +1,3 @@
-# fanyi.github.ao
 <!doctype html>
 <html>
 
